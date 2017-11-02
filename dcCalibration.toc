@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Fit Equations}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Constraints of the equation}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Initial best guess (nominal) values of the parameters}{4}{subsection.2.2}
+\contentsline {section}{\numberline {3}Procedure}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Data Binning}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Evaluation of $\chi ^2$ to be Minimized}{10}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Testing the Effect Of Calibration}{10}{subsection.3.3}
+\contentsline {section}{\numberline {4}Graphical User Interfaces (GUI)}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}The Main GUI}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Fit Control Panel}{16}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Slice Viewer}{18}{subsection.4.3}

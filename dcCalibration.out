@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Fit Equations}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Constraints of the equation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Initial best guess \(nominal\) values of the parameters}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Procedure}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Data Binning}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Evaluation of 2 to be Minimized}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Testing the Effect Of Calibration}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Graphical User Interfaces \(GUI\)}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{The Main GUI}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Fit Control Panel}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Slice Viewer}{section.4}% 12
